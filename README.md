@@ -130,7 +130,7 @@ The interface is simple, responsive, and animated for a pleasant experience:
 
 🏁 Author
 
-Sutha S
+Sutha S, 
 Engineering Student — Computer Science and Business Systems
 🎯 Passionate about logic programming, AI, and web development.
 
